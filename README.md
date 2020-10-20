@@ -26,4 +26,4 @@ python setup.py install
 ## Examples
 
 Examples on how to use this package are provided below:
-- [Clustering on the Planted model with AddS-4 and SPUR.](https://github.com/mperrot/ComparisonHC/blob/master/examples/planted.ipynb)
+- [Clustering on the Planted model with AddS-4 and SPUR.](https://github.com/mperrot/AddS-Clustering/blob/master/examples/planted.ipynb)
